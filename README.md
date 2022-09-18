@@ -1,9 +1,9 @@
 # Evento Explorer - Rocketseat
 ![preview](preview.png)
 
-> Projeto Construido no evento Maratona Explorer Da Rocketseat
+> Projeto Construido no Evento Maratona Explorer Da Rocketseat
 
-[Clique aqui para acessar](https://natandavinci.github.io/nlw/)
+[Clique aqui para acessar](https://natandavinci.github.io/Cardapio/)
 
 ## Tecnologias
 
