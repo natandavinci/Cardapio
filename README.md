@@ -1,4 +1,4 @@
-# Evento Explorer - Rocketseat
+# Evento Maratona Explorer - Rocketseat
 ![preview](preview.png)
 
 > Projeto Construido no Evento Maratona Explorer Da Rocketseat
